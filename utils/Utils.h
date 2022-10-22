@@ -10,6 +10,7 @@ template <class T>
 class Utils {
 public:
     static void printVector(vector<T> vec);
+    static void printNestedVector(vector<vector<T>> nvec);
 };
 
 #endif

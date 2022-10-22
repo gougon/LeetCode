@@ -1,6 +1,6 @@
 CC = g++
-path = 38-CountAndSay
-name = countAndSay
+path = 39-CombinationSum
+name = combinationSum
 utils = utils/Utils
 exe = $(path)/$(name)
 obj = $(utils).o $(path)/$(name).o

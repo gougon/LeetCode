@@ -8,3 +8,9 @@ void Utils<T>::printVector(vector<T> vec) {
         cout << t << " ";
     cout << endl;
 }
+
+template <typename T>
+void Utils<T>::printNestedVector(vector<vector<T>> nvec) {
+    for (vector<T> &vec: nvec) 
+        Utils<T>::printVector(vec);
+}
