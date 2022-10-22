@@ -1,6 +1,6 @@
 CC = g++
-path = 36-ValidSudoku
-name = validSudoku
+path = 38-CountAndSay
+name = countAndSay
 utils = utils/Utils
 exe = $(path)/$(name)
 obj = $(utils).o $(path)/$(name).o
