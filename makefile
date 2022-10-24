@@ -1,6 +1,6 @@
 CC = g++
-path = 973-KClosestPointsToOrigin
-name = kClosestPointsToOrigin
+path = 133-CloneGraph
+name = cloneGraph
 utils = utils/Utils
 exe = $(path)/$(name)
 obj = $(utils).o $(path)/$(name).o
