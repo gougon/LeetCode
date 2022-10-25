@@ -1,6 +1,6 @@
 CC = g++
-path = 133-CloneGraph
-name = cloneGraph
+path = 208-ImplementTrie(PrefixTree)
+name = implementTrie(PrefixTree)
 utils = utils/Utils
 exe = $(path)/$(name)
 obj = $(utils).o $(path)/$(name).o
