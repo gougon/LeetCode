@@ -1,6 +1,6 @@
 CC = g++
-path = 208-ImplementTrie(PrefixTree)
-name = implementTrie(PrefixTree)
+path = 155-MinStack
+name = minStack
 utils = utils/Utils
 exe = $(path)/$(name)
 obj = $(utils).o $(path)/$(name).o
