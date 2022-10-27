@@ -1,6 +1,6 @@
 CC = g++
-path = 155-MinStack
-name = minStack
+path = 994-RottingOranges
+name = rottingOranges
 utils = utils/Utils
 exe = $(path)/$(name)
 obj = $(utils).o $(path)/$(name).o
