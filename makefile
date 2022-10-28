@@ -1,6 +1,6 @@
 CC = g++
-path = 994-RottingOranges
-name = rottingOranges
+path = 56-MergeIntervals
+name = mergeIntervals
 utils = utils/Utils
 exe = $(path)/$(name)
 obj = $(utils).o $(path)/$(name).o
