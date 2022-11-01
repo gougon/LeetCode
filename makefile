@@ -1,6 +1,6 @@
 CC = g++
-path = 75-SortColors
-name = sortColors
+path = 8-StringToInteger_atoi
+name = stringToInteger_atoi
 utils = utils/Utils
 exe = $(path)/$(name)
 obj = $(utils).o $(path)/$(name).o
