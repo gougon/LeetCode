@@ -1,6 +1,6 @@
 CC = g++
-path = 56-MergeIntervals
-name = mergeIntervals
+path = 75-SortColors
+name = sortColors
 utils = utils/Utils
 exe = $(path)/$(name)
 obj = $(utils).o $(path)/$(name).o
