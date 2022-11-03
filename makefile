@@ -1,6 +1,6 @@
 CC = g++
-path = 54-SpiralMatrix
-name = spiralMatrix
+path = 62-UniquePaths
+name = uniquePaths
 utils = utils/Utils
 exe = $(path)/$(name)
 obj = $(utils).o $(path)/$(name).o
