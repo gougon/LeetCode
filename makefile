@@ -1,6 +1,6 @@
 CC = g++
-path = 62-UniquePaths
-name = uniquePaths
+path = 79-WordSearch
+name = wordSearch
 utils = utils/Utils
 exe = $(path)/$(name)
 obj = $(utils).o $(path)/$(name).o
