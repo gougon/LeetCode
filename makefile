@@ -1,6 +1,6 @@
 CC = g++
-path = 79-WordSearch
-name = wordSearch
+path = 310-MinimumHeightTrees
+name = minimumHeightTrees
 utils = utils/Utils
 exe = $(path)/$(name)
 obj = $(utils).o $(path)/$(name).o
