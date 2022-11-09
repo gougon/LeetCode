@@ -1,6 +1,6 @@
 CC = g++
-path = 310-MinimumHeightTrees
-name = minimumHeightTrees
+path = 739-DailyTemperatures
+name = dailyTemperatures
 utils = utils/Utils
 exe = $(path)/$(name)
 obj = $(utils).o $(path)/$(name).o
