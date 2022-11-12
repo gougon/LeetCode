@@ -1,6 +1,6 @@
 CC = g++
-path = 739-DailyTemperatures
-name = dailyTemperatures
+path = 152-MaximumProductSubarray
+name = maximumProductSubarray
 utils = utils/Utils
 exe = $(path)/$(name)
 obj = $(utils).o $(path)/$(name).o
