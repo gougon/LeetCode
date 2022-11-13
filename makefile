@@ -1,6 +1,6 @@
 CC = g++
-path = 152-MaximumProductSubarray
-name = maximumProductSubarray
+path = 287-FindTheDuplicateNumber
+name = findTheDuplicateNumber
 utils = utils/Utils
 exe = $(path)/$(name)
 obj = $(utils).o $(path)/$(name).o
