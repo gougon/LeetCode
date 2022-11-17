@@ -1,6 +1,6 @@
 CC = g++
-path = 287-FindTheDuplicateNumber
-name = findTheDuplicateNumber
+path = 128-LongestConsecutiveSequence
+name = longestConsecutiveSequence
 utils = utils/Utils
 exe = $(path)/$(name)
 obj = $(utils).o $(path)/$(name).o
