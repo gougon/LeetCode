@@ -1,6 +1,6 @@
 CC = g++
-path = 128-LongestConsecutiveSequence
-name = longestConsecutiveSequence
+path = 328-OddEvenLinkedList
+name = oddEvenLinkedList
 utils = utils/Utils
 exe = $(path)/$(name)
 obj = $(utils).o $(path)/$(name).o
