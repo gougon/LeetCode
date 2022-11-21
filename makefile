@@ -1,6 +1,6 @@
 CC = g++
-path = 525-ContiguousArray
-name = contiguousArray
+path = 658-FindKClosetElements
+name = findKClosetElements
 utils = utils/Utils
 exe = $(path)/$(name)
 obj = $(utils).o $(path)/$(name).o
